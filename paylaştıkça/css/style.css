@@ -1,0 +1,18 @@
+.slider{
+    height: 600px;
+    object-fit: cover;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.hakkimizda{
+    background-color: f2f2f2;
+}
+.ibeyaz{
+font-size: 40px;
+position: relative;
+top: 40px;
+border: 10px solid #f2f2f2;
+background-color: #f2f2f2;
+
+}
